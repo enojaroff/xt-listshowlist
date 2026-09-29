@@ -1,0 +1,40 @@
+{
+  "name": "@enojaroff/xt-listshowlist",
+  "version": "0.1.0",
+  "description": "Enhanced ListShowList viewtemplate for Saltcorn with split pane, responsiveness, orientation, and per-panel styling",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "README_EN.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "saltcorn",
+    "plugin",
+    "viewtemplate",
+    "listshowlist",
+    "split-pane",
+    "list-detail",
+    "resizable",
+    "subtables"
+  ],
+  "author": "Edouard Nojaroff",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enojaroff/xt-listshowlist.git"
+  },
+  "homepage": "https://github.com/enojaroff/xt-listshowlist#readme",
+  "bugs": {
+    "url": "https://github.com/enojaroff/xt-listshowlist/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  }
+}
